@@ -103,9 +103,9 @@
 				1C352C6523A623B0008488B4 /* SceneDelegate.swift */,
 				1C352C6723A623B0008488B4 /* ViewController.swift */,
 				1C352C6923A623B0008488B4 /* Main.storyboard */,
-				1C352C6C23A623B3008488B4 /* Assets.xcassets */,
-				1C352C6E23A623B3008488B4 /* LaunchScreen.storyboard */,
 				1C352C7123A623B3008488B4 /* Info.plist */,
+				1C352C6E23A623B3008488B4 /* LaunchScreen.storyboard */,
+				1C352C6C23A623B3008488B4 /* Assets.xcassets */,
 			);
 			path = QuizX;
 			sourceTree = "<group>";

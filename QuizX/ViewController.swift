@@ -12,10 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        questionLabel.text = questions[currentQuestionIndex]
+        currentQuestionLabel.text = questions[currentQuestionIndex]
     }
     
-    @IBOutlet var questionLabel: UILabel!
+    @IBOutlet var currentQuestionLabel: UILabel!
+    @IBOutlet var nextQuestionLabel: UILabel!
     @IBOutlet var answerLabel: UILabel!
     
     @IBAction func showNextQuestion(sender: AnyObject)
@@ -24,7 +25,7 @@ class ViewController: UIViewController {
         if currentQuestionIndex == questions.count {
             currentQuestionIndex = 0
         }
-        questionLabel.text = questions[currentQuestionIndex]
+        nextQuestionLabel.text = questions[currentQuestionIndex]
         answerLabel.text = "???"
         animateLabelTransitions()
     }
@@ -45,13 +46,16 @@ class ViewController: UIViewController {
                             ]
 
     func animateLabelTransitions() {
-        UIView.animate(withDuration: 2, animations: {
-            self.questionLabel.alpha = 1
+        UIView.animate(withDuration: 1, delay: 0, options: [], animations: {
+            self.currentQuestionLabel.alpha = 0
+            self.nextQuestionLabel.alpha = 1
+        }, completion: {_ in
+            swap(&self.currentQuestionLabel, &self.nextQuestionLabel)
         })
     }
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        questionLabel.alpha = 0
+        nextQuestionLabel.alpha = 0
     }
 }
