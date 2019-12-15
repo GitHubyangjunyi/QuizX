@@ -12,9 +12,34 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        questionLabel.text = questions[currentQuestionIndex]
     }
-
-
+    
+    @IBOutlet var questionLabel: UILabel!
+    @IBOutlet var answerLabel: UILabel!
+    
+    @IBAction func showNextQuestion(sender: AnyObject)
+    {
+        currentQuestionIndex += 1
+        if currentQuestionIndex == questions.count {
+            currentQuestionIndex = 0
+        }
+        questionLabel.text = questions[currentQuestionIndex]
+        answerLabel.text = "???"
+    }
+        
+    @IBAction func showAnswer(sender: AnyObject)
+    {
+        answerLabel.text = answers[currentQuestionIndex]
+    }
+        
+    var currentQuestionIndex: Int = 0
+    let questions: [String] = ["From what is cognac made?",
+                                "What is 7 + 7?",
+                                "What is the capital of Vermont?",
+                                ]
+    let answers: [String] = ["Grapes",
+                            "14",
+                            "Montpelier",
+                            ]
 }
-
