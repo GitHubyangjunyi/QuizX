@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0BE620AD-135C-49BF-A0BD-679C9FC0FD0F</key>
+		<key>032C605B-2B5A-46FC-ABF5-A204AE5CBEC8</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0BE620AD-135C-49BF-A0BD-679C9FC0FD0F.xcactivitylog</string>
+			<string>032C605B-2B5A-46FC-ABF5-A204AE5CBEC8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Debug QuizX</string>
 			<key>timeStartedRecording</key>
-			<real>598091760.13060105</real>
+			<real>598103588.20429897</real>
 			<key>timeStoppedRecording</key>
-			<real>598091787.967839</real>
+			<real>598103607.056445</real>
 			<key>title</key>
 			<string>Debug QuizX</string>
 			<key>uniqueIdentifier</key>
-			<string>0BE620AD-135C-49BF-A0BD-679C9FC0FD0F</string>
+			<string>032C605B-2B5A-46FC-ABF5-A204AE5CBEC8</string>
 		</dict>
-		<key>5C5567FE-68FE-48C4-B226-C3474AB5D33E</key>
+		<key>19666BED-10BC-42ED-8E16-CD258F3B4A1E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>5C5567FE-68FE-48C4-B226-C3474AB5D33E.xcactivitylog</string>
+			<string>19666BED-10BC-42ED-8E16-CD258F3B4A1E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Debug QuizX</string>
 			<key>timeStartedRecording</key>
-			<real>598092037.36424994</real>
+			<real>598103621.84311903</real>
 			<key>timeStoppedRecording</key>
-			<real>598092048.00692201</real>
+			<real>598103878.95713401</real>
 			<key>title</key>
 			<string>Debug QuizX</string>
 			<key>uniqueIdentifier</key>
-			<string>5C5567FE-68FE-48C4-B226-C3474AB5D33E</string>
+			<string>19666BED-10BC-42ED-8E16-CD258F3B4A1E</string>
 		</dict>
-		<key>BEC71C6B-1E1D-45CA-B748-FEB4BD417A87</key>
+		<key>274075D3-E2C3-4D2E-AF20-C30F07944A4C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BEC71C6B-1E1D-45CA-B748-FEB4BD417A87.xcactivitylog</string>
+			<string>274075D3-E2C3-4D2E-AF20-C30F07944A4C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Debug QuizX</string>
 			<key>timeStartedRecording</key>
-			<real>598093512.95874202</real>
+			<real>598103543.26235902</real>
 			<key>timeStoppedRecording</key>
-			<real>598093523.517012</real>
+			<real>598103559.69043195</real>
 			<key>title</key>
 			<string>Debug QuizX</string>
 			<key>uniqueIdentifier</key>
-			<string>BEC71C6B-1E1D-45CA-B748-FEB4BD417A87</string>
+			<string>274075D3-E2C3-4D2E-AF20-C30F07944A4C</string>
 		</dict>
-		<key>FAE146D8-06E3-4005-ABA4-87FD8408AF0E</key>
+		<key>8EE720C7-23ED-47DB-A4FF-F2321441949C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>FAE146D8-06E3-4005-ABA4-87FD8408AF0E.xcactivitylog</string>
+			<string>8EE720C7-23ED-47DB-A4FF-F2321441949C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,13 +134,149 @@
 			<key>signature</key>
 			<string>Debug QuizX</string>
 			<key>timeStartedRecording</key>
-			<real>598092182.38124096</real>
+			<real>598102783.50051105</real>
 			<key>timeStoppedRecording</key>
-			<real>598092188.74255705</real>
+			<real>598102834.11058199</real>
 			<key>title</key>
 			<string>Debug QuizX</string>
 			<key>uniqueIdentifier</key>
-			<string>FAE146D8-06E3-4005-ABA4-87FD8408AF0E</string>
+			<string>8EE720C7-23ED-47DB-A4FF-F2321441949C</string>
+		</dict>
+		<key>99A374AC-80E1-47D0-B156-B5E361E6A73A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>99A374AC-80E1-47D0-B156-B5E361E6A73A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>QuizX project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>QuizX</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug QuizX</string>
+			<key>timeStartedRecording</key>
+			<real>598103607.81197405</real>
+			<key>timeStoppedRecording</key>
+			<real>598103621.05047095</real>
+			<key>title</key>
+			<string>Debug QuizX</string>
+			<key>uniqueIdentifier</key>
+			<string>99A374AC-80E1-47D0-B156-B5E361E6A73A</string>
+		</dict>
+		<key>A696F3BE-2B8E-48EC-A703-A4FD223B34CA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A696F3BE-2B8E-48EC-A703-A4FD223B34CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>QuizX project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>QuizX</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug QuizX</string>
+			<key>timeStartedRecording</key>
+			<real>598103563.43362999</real>
+			<key>timeStoppedRecording</key>
+			<real>598103587.40447199</real>
+			<key>title</key>
+			<string>Debug QuizX</string>
+			<key>uniqueIdentifier</key>
+			<string>A696F3BE-2B8E-48EC-A703-A4FD223B34CA</string>
+		</dict>
+		<key>F577615D-04CD-4BD6-B25B-C8EEBB61CBE9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F577615D-04CD-4BD6-B25B-C8EEBB61CBE9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>QuizX project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>QuizX</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug QuizX</string>
+			<key>timeStartedRecording</key>
+			<real>598102835.46082306</real>
+			<key>timeStoppedRecording</key>
+			<real>598102854.27891898</real>
+			<key>title</key>
+			<string>Debug QuizX</string>
+			<key>uniqueIdentifier</key>
+			<string>F577615D-04CD-4BD6-B25B-C8EEBB61CBE9</string>
+		</dict>
+		<key>F9B32C42-BF9B-4FDB-ABF2-90E0A561D3B7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F9B32C42-BF9B-4FDB-ABF2-90E0A561D3B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>QuizX project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>QuizX</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug QuizX</string>
+			<key>timeStartedRecording</key>
+			<real>598099477.84555304</real>
+			<key>timeStoppedRecording</key>
+			<real>598099489.884112</real>
+			<key>title</key>
+			<string>Debug QuizX</string>
+			<key>uniqueIdentifier</key>
+			<string>F9B32C42-BF9B-4FDB-ABF2-90E0A561D3B7</string>
 		</dict>
 	</dict>
 </dict>
