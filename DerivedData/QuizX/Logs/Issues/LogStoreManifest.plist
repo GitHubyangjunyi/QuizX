@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>E2741E7F-FF17-4247-B16E-9DA383147162</key>
+		<key>9091DA75-5D13-475C-B774-696B05D1F10E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>E2741E7F-FF17-4247-B16E-9DA383147162.xcactivitylog</string>
+			<string>9091DA75-5D13-475C-B774-696B05D1F10E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>QuizX-cxmkvffzgjmajgatrxhplieilfii</string>
 			<key>timeStartedRecording</key>
-			<real>598091758.36362004</real>
+			<real>598092205.60825896</real>
 			<key>timeStoppedRecording</key>
-			<real>598091760.12098706</real>
+			<real>598092206.30699599</real>
 			<key>title</key>
 			<string>Build target QuizX</string>
 			<key>uniqueIdentifier</key>
-			<string>E2741E7F-FF17-4247-B16E-9DA383147162</string>
+			<string>9091DA75-5D13-475C-B774-696B05D1F10E</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

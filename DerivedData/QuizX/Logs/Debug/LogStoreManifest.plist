@@ -40,6 +40,74 @@
 			<key>uniqueIdentifier</key>
 			<string>0BE620AD-135C-49BF-A0BD-679C9FC0FD0F</string>
 		</dict>
+		<key>5C5567FE-68FE-48C4-B226-C3474AB5D33E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5C5567FE-68FE-48C4-B226-C3474AB5D33E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>QuizX project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>QuizX</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug QuizX</string>
+			<key>timeStartedRecording</key>
+			<real>598092037.36424994</real>
+			<key>timeStoppedRecording</key>
+			<real>598092048.00692201</real>
+			<key>title</key>
+			<string>Debug QuizX</string>
+			<key>uniqueIdentifier</key>
+			<string>5C5567FE-68FE-48C4-B226-C3474AB5D33E</string>
+		</dict>
+		<key>FAE146D8-06E3-4005-ABA4-87FD8408AF0E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FAE146D8-06E3-4005-ABA4-87FD8408AF0E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>QuizX project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>QuizX</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug QuizX</string>
+			<key>timeStartedRecording</key>
+			<real>598092182.38124096</real>
+			<key>timeStoppedRecording</key>
+			<real>598092188.74255705</real>
+			<key>title</key>
+			<string>Debug QuizX</string>
+			<key>uniqueIdentifier</key>
+			<string>FAE146D8-06E3-4005-ABA4-87FD8408AF0E</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
